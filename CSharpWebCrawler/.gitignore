@@ -1,0 +1,30 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Web crawler state
+crawler_state.json
+
+# Logs
+*.log
+out.log
+out_utf8.log
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Mac / OS X
+.DS_Store
